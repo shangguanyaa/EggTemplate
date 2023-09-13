@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Hzh123456",
+    "database": "learning_and_study_community",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Hzh123456",
+    "database": "learning_and_study_community",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Hzh123456",
+    "database": "learning_and_study_community",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
